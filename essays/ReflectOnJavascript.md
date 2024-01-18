@@ -7,46 +7,10 @@ date: 2024-01-17
 published: true
 labels:
   - Software Engineering
+  - learning
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-*Reflect on Javascript*
+Javascript was a language I only heard of and it is known to be one of the popular languages to learn.  I was thinking about javascript not being too different from java but it turns out to be two completely different languages.  Taking a software engineering course, I am looking forward to learning about this language I only heard about.  
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+As a complete newbie who started to learn about javascript, I learned that it is different from other programming languages I learned before.  Unlike java or most of the programming languages which need to be compiled before it can run, javascript does not need to be compiled.  Because of this it feels easier and more comfortable to work with javascript.  So far with my knowledge of javascript, javascript looks like a good friendly language for beginners and because of how common it is and how it’s widely used for web development, mobile app, and game development to building web servers it looks like a good programming language from a software engineering perspective as well as athletic software engineering.  
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## Practice WODs
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+What I found unique was the practice method we used in our class called WOD.  It was my first time working with WODs and doing some practice WODs at home.  So far I really like how this is taught.  Unlike any previous computer science class I had where there was an assignment I had a whole week to work on with lots of time I had in between, I felt like I was not sure if I was learning enough or if I could really code a language outside of class.  Practicing WODs however helps me to work with good pacing with different varieties of exercise and I could clearly tell whether or not If I was meeting the standard or not.  This alone helped me to review the exercise over and over until I understood the question.  If it wasn’t for WOD and it was just a regular assignment with 7 days to work on, I would have not realized If I understood them fully and continued to not review the question.  WOD is overall very helpful to me and it really makes me feel like my skills are improving.
