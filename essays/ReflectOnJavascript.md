@@ -6,12 +6,10 @@ title: "Reflect on Javascript"
 date: 2024-01-17
 published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+* Reflect on Javascript *
 
 One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
@@ -21,7 +19,7 @@ But the more I though about it, the more I wondered to myself...damn that's a re
 
 Here's what I think: the difficult things will always be difficult.
 
-## In the context of programming
+## Practice WODs
 
 In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
