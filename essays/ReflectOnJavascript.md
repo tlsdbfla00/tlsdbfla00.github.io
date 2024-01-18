@@ -8,8 +8,8 @@ published: true
 labels:
   - Software Engineering
 ---
-
-* Reflect on Javascript *
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+*Reflect on Javascript*
 
 One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
