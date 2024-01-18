@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Javascript"
+title: "Javascript: Beginner-friendly Programming Language"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
