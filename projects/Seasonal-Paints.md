@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_4189.HEIC
 title: "Seasonal Paints"
 date: 2023
 published: true
