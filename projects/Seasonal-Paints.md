@@ -26,4 +26,4 @@ I also took part of filming the movements and editinig the film.  We then played
 
 
 
-You can take a look at our [seasonal paints projects.](https://drive.google.com/file/d/1uj76c2gL3KON0T2YQG-46an2k__sgGin/view?usp=sharing).
+You can take a look at our [seasonal paints projects.](https://drive.google.com/file/d/1uj76c2gL3KON0T2YQG-46an2k__sgGin/view?usp=sharing)
