@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Recognition.jpg
-title: "Academic Performancec"
+title: "Academic Performance"
 date: 2018
 published: true
 labels:
