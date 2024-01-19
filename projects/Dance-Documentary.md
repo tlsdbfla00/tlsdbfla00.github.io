@@ -9,7 +9,7 @@ labels:
   - Filming
   - Editing
   - Director
-summary: "My team created a 20 minute length video project called Seasonal Paints."
+summary: "I created a Dance Documentary for the film Are We There Yet, Baby? at UH Manoa Theatre."
 ---
 
 Seasonal Paints was a video me and my teammates created in a DNCE course.  I was the director of this project and gave thoughts of showing different dance movements for each different season and my co-director gave the idea of using the paint to express that and we together created a dance video "Seasonal Paint".
