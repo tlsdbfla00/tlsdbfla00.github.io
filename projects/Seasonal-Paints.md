@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_4189.HEIC
+image: img/Seasonal_Paints.jpg
 title: "Seasonal Paints"
 date: 2023
 published: true
