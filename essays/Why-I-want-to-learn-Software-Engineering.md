@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Why I want to learn Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-18
+date: 2024-09-11
 published: true
 labels:
   - Engineering
