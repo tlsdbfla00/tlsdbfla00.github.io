@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img class="img-fluid" src="../img/questiont.jpg">
 
 ## Is there such thing as a stupid question?
 
