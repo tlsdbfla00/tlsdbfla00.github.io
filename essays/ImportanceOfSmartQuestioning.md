@@ -24,7 +24,8 @@ Smart questions are the ones where the asker has already put in effort into unde
 
 ## Example of a smart and stupid question
 
-Example of a smart question from a stack overflow would be : [openapi-generator generates correct code, but incorrect documentation annotations in Spring Boot project.](https://stackoverflow.com/questions/46011963/math-random-doesnt-work)  The question provides a clear context for the problem and it is not an obvious question as you could see how the asker puts in their effort.  Asker clearly know the problem and describes the symptoms, not just guessing. 
+Example of a smart question from a stack overflow would be : [openapi-generator generates correct code, but incorrect documentation annotations in Spring Boot project.](https://stackoverflow.com/questions/78957890/openapi-generator-generates-correct-code-but-incorrect-documentation-annotation)  The question provides a clear context for the problem and it is not an obvious question as you could see how the asker puts in their effort.  Asker clearly know the problem and describes the symptoms, not just guessing. 
 
-Example of a stupid question from stack overflow would be: [Math.random doesn’t work](https://stackoverflow.com/questions/78957890/openapi-generator-generates-correct-code-but-incorrect-documentation-annotation
-).  This question shows the writer's lack of research nor any effort to solve the problem on its own and would simply just ask for help.  From this we could already tell asker does not have a clear context on what the problem is and shows no evidence of prior research or effort to solve the problem.  The problem lacks necessary details and is unclear failing for the reader to understand. 
+Example of a stupid question from stack overflow would be: [Math.random doesn’t work](https://stackoverflow.com/questions/46011963/math-random-doesnt-work).  This question shows the writer's lack of research nor any effort to solve the problem on its own and would simply just ask for help.  From this we could already tell asker does not have a clear context on what the problem is and shows no evidence of prior research or effort to solve the problem.  The problem lacks necessary details and is unclear failing for the reader to understand. 
+
+
