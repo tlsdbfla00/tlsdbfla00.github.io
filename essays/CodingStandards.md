@@ -11,6 +11,8 @@ labels:
   - VSCode
 ---
 
+<img class="img-fluid" src="../img/java-coding-best-practices.jpg">
+
 ## Coding standards and its effectiveness to programmers
 
 Coding standards can actually help to learn a programming language because if everyone had a different style of coding, it would take time to review others code which is why having consistency will have a better readability where everyone can understand.  By having coding standards, it provides a structured way to write code, making it easier to read and understand. It could possibly help error reduction allowing us to focus on the language alone.   I believe by following these coding standards, we can enhance the learning experience when picking up a new programming language. 
