@@ -16,7 +16,7 @@ Then we were introduced to Bootstrap 5 to help maintain our code with consistenc
 
 ## My Experience of using Bootstrap 5
 <img class="img-fluid" src="../img/islandsnow-bootstrap.png">
-From my experience of using bootstrap 5 on my assignments, because I lacked the basics, It took time for me to understand each line.  Doing Island snow assignments helped me to learn the basics and gave me an idea of how to create a website. 
+From my experience of using bootstrap 5 on my assignments, because I lacked the basics, It took time for me to understand each line.   Doing Island snow assignments helped me to learn the basics and gave me an idea of how to create a website. 
  I am still learning how to bring out my desired output and which class to use to acquire that result.  I personally found it hard to correctly align the text because I would have to make the text look evenly spaced out from right to left and top to bottom, and to make it look nicely spaced out when you look at the whole page.  I also found determining the size or height of an image could also be challenging sometimes because there is no right or wrong answer but to determine what size would look most similar.  Bootstrap 5’s pre-built components were pretty easy to use and I learned them and made it easier for me to build UI.
 
 ## Conclusion
