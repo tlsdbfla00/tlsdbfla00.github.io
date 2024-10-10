@@ -11,13 +11,14 @@ labels:
   - Bootstrap
 ---
 
-<img class="img-fluid" src="../img/java-coding-best-practices.jpg">
+<img class="img-fluid" src="../img/HTMLandCSS.png">
 
 ## Learning HTML and CSS
 
 Learning module UI Frameworks (Basics) was like learning a new programming language to me.  When I first started learning HTML and CSS using FreeCodeCamp, I could understand what they were guiding but I would have to go back each time to remember what they were since there were lots of things to learn in a short amount of time. It was also confusing for me as to using HTML elements correctly on different type of situation.
 Then we were introduced to Bootstrap 5 to help maintain our code with consistency.  Bootstrap 5 helped us to structure our code to build UI and make the codebase easier to understand and maintain.  By investing time on Bootstrap 5 we can have a consistent Code Structure where Frameworks provide a structured approach to building UI making codebase easier to understand and maintain.  Bootstrap 5 also has pre-built components like buttons, modals, navbars which have easier accessibility when building UI.
 
+<img class="img-fluid" src="../img/islandsnow-bootstrap.png">
 
 ## My Experience of using Bootstrap 5
 
