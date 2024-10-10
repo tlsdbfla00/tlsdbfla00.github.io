@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How Bootstrap 5 made HTML and CSS easier to use"
+title: "Bootstrap vs HTML & CSS: What is better for Web Development Efficiency"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
