@@ -59,15 +59,19 @@ Outside of ICS314, I used an AI to write the lyrics to a song. AI technology has
 
 
 # V. Challenges and Opportunities:
+
 While AI has significantly enhanced my learning experience, there have been challenges in its integration into the course. One challenge is over-reliance on AI tools. It's tempting to rely on AI for generating code and solving problems, but this can lead to a lack of deep understanding of the underlying concepts. In software engineering, it is essential to balance AI assistance with critical thinking and the ability to independently troubleshoot issues.  Even AI tools sometimes provide solutions that are not fully applicable to specific problems, especially when working with complex, non-standard systems. In these cases, the AI might generate code that is syntactically correct but lacks optimal efficiency or does not address the problem in a contextually appropriate way.
 
 # VI. Comparative Analysis:
+
 In comparing traditional teaching methods with AI-enhanced approaches, there is a difference in practical skill development.  In software engineering, practical skills are crucial, and AI tools like GitHub Copilot and ChatGPT offer hands-on assistance that traditional methods do not. These tools help students solve real-world problems, write code, debug, and optimize solutions, all of which contribute to more effective skill development. Traditional teaching methods might focus more on theoretical knowledge, while AI-powered tools bridge the gap between theory and practice.
 
 # VII. Future Considerations:
+
 Looking to the future, AI is poised to play an even more prominent role in software engineering education.  AI could also be used to simulate real-world projects, allowing students to collaborate and tackle complex software engineering problems in virtual environments.
 However, there are challenges to consider. Over-reliance on AI tools could hinder the development of critical thinking and independent problem-solving skills. Ensuring that students remain engaged in the learning process without becoming dependent on AI will be essential.  It will be important for educators to adapt their teaching methods to incorporate AI effectively, balancing the use of AI with the development of fundamental software engineering skills.
 
 # VIII. Conclusion:
+
 The integration of AI into the Software Engineering course has significantly enriched my learning experience. Tools like ChatGPT and GitHub Copilot have enhanced my understanding of key software engineering concepts, facilitated problem-solving, and accelerated skill development. While AI tools offer tremendous benefits, challenges such as over-reliance and occasional mismatched solutions remind us of the importance of balancing AI assistance with independent critical thinking.
 
