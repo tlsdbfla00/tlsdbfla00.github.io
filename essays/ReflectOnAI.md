@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI in Action: A reflection from ICS314"
+title: "AI in Practice: Insights and Applications from ICS314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
