@@ -22,12 +22,15 @@ For the WOD experience I tried to avoid using an AI as much as possible since th
 **3. In-class Practice WODs**
 
 When I was working on in class group WOD: Murphy’s Bar and Grill unlike the island snow practice WOD it didn’t have a solution video so when I was stuck on putting the murphy’s logo, chat gpt gave me solution to create a public folder and helped so It would navigate to the logo.
+
 **3. In-class WODs**
 
 For the in-class WOD there were times I didn’t need AI and when I needed to use it.  When doing WOD aloha beer, I had problems putting text over images and chatGPT was helpful in answering what to write. 
+
 **4. Essays**
 
 Using ChatGPT on essays is also helpful to me whenever I do not know how to start on a specific sentence. It would give me basic guidelines and fix my grammar. 
+
 **5. Final project**
 
 When working on my final group project “corponector” I faced a problem deploying it and I had errors connecting to the server database.  Whenever I had these problems I would first ask chatGPT what I could do to fix and it gave me multiple options to possibly fix the solution.  I was able to follow the step by step guide and fix the problem deploying.
@@ -43,7 +46,10 @@ I didn't really answer a question in class or discord but most of the coding que
 **8. Asking or answering a smart-question**
 
 The only question I asked on discord was the code writing style guide on this class which was beyond the help of AI.  Other than that, all my questions were answered through AI so I didn’t really utilize discord smart questions.
+
 **9. Coding example e.g. “give an example of using Underscore .pluck”**
+
+I had a program to fix the ESLint errors so I didn’t need help on that but when I had a problem on a certain coding area I asked what’s wrong with this line and can you see if I can improve on this code for the quality assurance.
 
 **10. Explaining code**
 
@@ -58,6 +64,8 @@ I didn’t entirely depend on AI on this as I wrote the code to myself but after
 I used an AI to ask step-by-step instructions on each line of code and how this works, why it needs to be used, which was helpful to learn.
 
 **13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”**
+
+I had a program to fix the ESLint errors so I didn’t need help on that but when I had a problem on a certain coding area I asked what’s wrong with this line and can you see if I can improve on this code for the quality assurance.
 
 **14. Other uses in ICS 314 not listed**
 
