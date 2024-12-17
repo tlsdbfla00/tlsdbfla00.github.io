@@ -64,7 +64,7 @@ I didn’t entirely depend on AI on this as I wrote the code to myself but after
 
 I used an AI to ask step-by-step instructions on each line of code and how this works, why it needs to be used, which was helpful to learn.
 
-**13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”**
+**13. Quality assurance**
 
 I had a program to fix the ESLint errors so I didn’t need help on that but when I had a problem on a certain coding area I asked what’s wrong with this line and can you see if I can improve on this code for the quality assurance.
 
