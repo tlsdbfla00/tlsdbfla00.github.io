@@ -16,39 +16,39 @@ One of the most notable AI tools I have used is ChatGPT. This conversational AI 
 
 # II. Personal Experience with AI:
 **1. Experience WODs e.g. E18**
-- For the WOD experience I tried to avoid using an AI as much as possible since there’s no time limit.  I try my best first but if I get stuck then that’s when I would use the help of an AI by asking what I need to do next.
+For the WOD experience I tried to avoid using an AI as much as possible since there’s no time limit.  I try my best first but if I get stuck then that’s when I would use the help of an AI by asking what I need to do next.
 
- 3. In-class Practice WODs
+**3. In-class Practice WODs**
 When I was working on in class group WOD: Murphy’s Bar and Grill unlike the island snow practice WOD it didn’t have a solution video so when I was stuck on putting the murphy’s logo, chat gpt gave me solution to create a public folder and helped so It would navigate to the logo.
-* 3. In-class WODs
+**3. In-class WODs**
 For the in-class WOD there were times I didn’t need AI and when I needed to use it.  When doing WOD aloha beer, I had problems putting text over images and chatGPT was helpful in answering what to write. 
-*4. Essays
+**4. Essays**
 Using ChatGPT on essays is also helpful to me whenever I do not know how to start on a specific sentence. It would give me basic guidelines and fix my grammar. 
-*5. Final project
+**5. Final project**
 When working on my final group project “corponector” I faced a problem deploying it and I had errors connecting to the server database.  Whenever I had these problems I would first ask chatGPT what I could do to fix and it gave me multiple options to possibly fix the solution.  I was able to follow the step by step guide and fix the problem deploying.
 
-*6. Learning a concept / tutorial
+**6. Learning a concept / tutorial**
 ChatGPT helped me break down complex topics into parts I could understand.  I used it to learn TypeScript tips, specific npm/npx commands.  The command I learned was when trying to modify a .env file I would use  source ~/.bashrc and nano.env command.
 
-*7. Answering a question in class or in Discord
+**7. Answering a question in class or in Discord**
 I didn't really answer a question in class or discord but most of the coding questions on discord were answerable through help of ChatGPT.
 
-*8. Asking or answering a smart-question
+**8. Asking or answering a smart-question**
 The only question I asked on discord was the code writing style guide on this class which was beyond the help of AI.  Other than that, all my questions were answered through AI so I didn’t really utilize discord smart questions.
-*9. Coding example e.g. “give an example of using Underscore .pluck”
+**9. Coding example e.g. “give an example of using Underscore .pluck”**
 
-*10. Explaining code
+**10. Explaining code**
 When following the code during reading, and when I wanted a specific explanation on why this certain sentence was used I would use chatGPT to ask why this specific sentence was used.
 
-*11. Writing code
+**11. Writing code**
 I didn’t entirely depend on AI on this as I wrote the code to myself but after doing so I always ask chatGPT on how to enhance my code quality.
 
-*12. Documenting code
+**12. Documenting code**
 I used an AI to ask step-by-step instructions on each line of code and how this works, why it needs to be used, which was helpful to learn.
 
-*13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+**13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”**
 
-*14. Other uses in ICS 314 not listed
+**14. Other uses in ICS 314 not listed**
 I used chatGPT on what to study in order to enhance my coding knowledge & have better writing skills.
 
 
