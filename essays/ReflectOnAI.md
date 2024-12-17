@@ -20,7 +20,7 @@ One of the most notable AI tools I have used is ChatGPT. This conversational AI 
 
 For the WOD experience I tried to avoid using an AI as much as possible since there’s no time limit.  I try my best first but if I get stuck then that’s when I would use the help of an AI by asking what I need to do next.
 
-**3. In-class Practice WODs**
+**2. In-class Practice WODs**
 
 When I was working on in class group WOD: Murphy’s Bar and Grill unlike the island snow practice WOD it didn’t have a solution video so when I was stuck on putting the murphy’s logo, chat gpt gave me solution to create a public folder and helped so It would navigate to the logo.
 
