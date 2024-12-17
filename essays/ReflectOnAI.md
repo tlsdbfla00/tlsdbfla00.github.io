@@ -51,7 +51,7 @@ I used an AI to ask step-by-step instructions on each line of code and how this 
 I used chatGPT on what to study in order to enhance my coding knowledge & have better writing skills.
 
 
-# III. Impact on Learning and Understanding:
+## III. Impact on Learning and Understanding:
 The incorporation of AI into my learning experience has had a profound impact on my comprehension, skill development, and problem-solving abilities, particularly in the context of software engineering. AI tools like ChatGPT have significantly enhanced my understanding of complex software engineering concepts. For instance, when I encountered difficulties in comprehending certain algorithms or software design patterns, ChatGPT was able to explain the concepts in simpler terms and offer alternative explanations, which helped solidify my understanding.
 
 # IV. Practical Applications:
