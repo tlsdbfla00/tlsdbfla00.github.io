@@ -15,7 +15,7 @@ AI enhances the learning experience by offering personalized learning, automatin
 One of the most notable AI tools I have used is ChatGPT. This conversational AI tool provides support for a range of tasks from answering questions to writing code snippets and debugging. For example, in ICS 314, ChatGPT has been helpful in answering complex questions related to software engineering principles, explaining coding errors, step by step so I would understand and follow each step and providing insights into best practices for project management and software development.   It even helped me with a question that was unrelated to coding itself, like “how to transfer this file” which was very helpful since not all the instructions were shown on the assignment website and I didn’t have to ask around every time I needed help. 
 
 # II. Personal Experience with AI:
-** 1. Experience WODs e.g. E18 **
+**1. Experience WODs e.g. E18**
 - For the WOD experience I tried to avoid using an AI as much as possible since there’s no time limit.  I try my best first but if I get stuck then that’s when I would use the help of an AI by asking what I need to do next.
 
  3. In-class Practice WODs
