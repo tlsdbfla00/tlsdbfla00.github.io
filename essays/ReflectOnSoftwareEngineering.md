@@ -12,7 +12,7 @@ labels:
 
 # Agile Project Management
 
-In completing the E56 assignment, we followed Agile principles to ensure efficient collaboration, timely delivery, and a high-quality result. The main objective of the assignment was to create a GitHub organization for our final project and set up the home page of our project repository using GitHub Pages. We were tasked with setting up a GitHub organization, creating a repo for the home page, configuring it with Jekyll, and writing a description of our final project, including goals and mockup screenshots.
+In completing the [E56 assignment](https://courses.ics.hawaii.edu/ics314f24/morea/project-management/experience-github-organization.html), we followed Agile principles to ensure efficient collaboration, timely delivery, and a high-quality result. The main objective of the assignment was to create a GitHub organization for our final project and set up the home page of our project repository using GitHub Pages. We were tasked with setting up a GitHub organization, creating a repo for the home page, configuring it with Jekyll, and writing a description of our final project, including goals and mockup screenshots.
 
 The Agile approach to this task began with planning. Although the assignment itself was a clear goal, we broke down the requirements into smaller tasks to distribute among team members. For instance, some members focused on creating the GitHub organization and inviting team members as owners, while others worked on setting up the home page, designing the layout, and adding content in markdown. We used an issue tracking system (through GitHub issues) to document and track progress on each task, which aligned perfectly with the principles of Issue Driven Project Management.
 
@@ -20,7 +20,7 @@ Agile Project Management can be highly effective in managing marketing campaigns
 
 # Development environment
 
-In modern software development, the choice and configuration of the development environment are critical to ensuring an efficient and productive workflow. For the E21 assignment, we were tasked with installing and configuring Visual Studio Code (VSCode), a popular and versatile Integrated Development Environment (IDE) that is widely used by developers. In this reflection, I will discuss how the development environment—specifically the installation and configuration of VSCode—was used during the assignment, and how it helped streamline the setup process for our development tasks.
+In modern software development, the choice and configuration of the development environment are critical to ensuring an efficient and productive workflow. For the [E21 assignment](https://courses.ics.hawaii.edu/ics314f24/morea/development-environments/experience-install-vscode.html), we were tasked with installing and configuring Visual Studio Code (VSCode), a popular and versatile Integrated Development Environment (IDE) that is widely used by developers. In this reflection, I will discuss how the development environment—specifically the installation and configuration of VSCode—was used during the assignment, and how it helped streamline the setup process for our development tasks.
 
 By installing the recommended extensions and verifying startup times, I ensured that I was working in an environment that was not only fast but also capable of improving the quality of my code. The seamless integration with Git, the real-time code formatting, and the ability to preview HTML changes instantly were all crucial in making the development process smoother and more efficient.
 
