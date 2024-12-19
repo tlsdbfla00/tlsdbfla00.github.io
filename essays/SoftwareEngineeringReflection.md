@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Understanding Software Engineering: Concepts and Ethics Beyond Web Development
+title: "Understanding Software Engineering: Concepts and Ethics Beyond Web Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-18
 published: true
