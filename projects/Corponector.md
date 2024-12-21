@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Corponector.png
+image: img/corponector.png
 title: "Corponector: Connecting students and companies"
 date: 2024
 published: true
