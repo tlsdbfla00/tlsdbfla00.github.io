@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Corponector.png
 title: "Corponector: Connecting students and companies"
-date: 2018
+date: 2024
 published: true
 labels:
   - Typescript
@@ -28,3 +28,8 @@ This homepage showcases the company’s details, including an overview, location
 
 ## My experience
 My experience working on the Corponector web application has been incredibly rewarding, especially when creating the company homepage. I thoroughly enjoyed designing this section as it allowed me to combine both functionality and aesthetics to create a user-friendly interface. The company homepage serves as a crucial feature, giving businesses a space to showcase their mission, available positions, and recruitment needs. I took great care in ensuring that the page was intuitive, easy to navigate, and visually appealing. Overall, this experience not only enhanced my technical skills but also gave me a deeper appreciation for designing web pages that serve real-world purposes and make a tangible impact on users.
+
+[Corponector Home page](https://corponector.github.io/)
+[Corponector Website](https://corponector.vercel.app/)
+[Corponector Source code](https://github.com/corponector/sourceCode)
+
