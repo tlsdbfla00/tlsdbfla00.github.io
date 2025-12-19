@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-## Reflection on My Experience in ICS 414
-
 In ICS 414, I worked on a full-stack project called Pantry Pals. This project helped me understand how real web applications are built and how the frontend, backend, and database all work together. I used tools like Next.js, React, Prisma, and PostgreSQL, which gave me a better idea of how modern web apps are structured.
 
 One of the biggest things I learned was how to add new features without breaking existing code. When I worked on adding an “Add to Shopping List” button from the pantry page, I had to look closely at how the current APIs and database logic were already set up. Instead of starting from scratch, I learned to work with what was already there, which showed me why reading and understanding existing code is important.
