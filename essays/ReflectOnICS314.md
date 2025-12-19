@@ -7,6 +7,7 @@ date: 2025-12-19
 published: true
 labels:
   - Software Engineering
+  - Reflection
 ---
 
 In ICS 414, I worked on a full-stack project called Pantry Pals. This project helped me understand how real web applications are built and how the frontend, backend, and database all work together. I used tools like Next.js, React, Prisma, and PostgreSQL, which gave me a better idea of how modern web apps are structured.
