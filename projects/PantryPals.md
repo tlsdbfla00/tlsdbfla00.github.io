@@ -13,7 +13,7 @@ labels:
 summary: "Pantry Pal is a web app that helps users keep track of what they have in their pantry, fridge, and freezer by managing inventory, tracking expiration dates, and automatically creating shopping lists so grocery shopping is easier and food waste is reduced."
 ---
 
-<img class="img-fluid" src="../img/CorponectorLanding.png">
+<img class="img-fluid" src="../img/pantrypals_homepage.png">
 
 ## Project Overview
 Pantry Pals is a web application designed to help people keep track of the food they have at home. Many people forget what’s in their pantry or fridge, which leads to buying duplicates or letting food expire. Pantry Pals solves this problem by giving users a simple digital inventory for their pantry, fridge, freezer, and spices.
@@ -46,6 +46,10 @@ Pantry Pals is deployed using Vercel with Next.js and GitHub integration. The ma
 This setup allows the team to focus on development while keeping deployment reliable and consistent.
 
 ## My Contributions
+
+<img class="img-fluid" src="../img/pantrypals_addlist.png">
+<img class="img-fluid" src="../img/pantrypals_expire.png">
+<img class="img-fluid" src="../img/pantrypals_quantity.png">
 
 * Implemented custom restock preferences, allowing users to choose when items are added to the shopping list (e.g., eggs when half gone, berries when fully gone)
 
