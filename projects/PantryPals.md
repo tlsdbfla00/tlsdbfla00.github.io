@@ -38,7 +38,7 @@ Users can easily add, update, and remove items, track quantities, and see expira
 
 * Reports to track spending habits and reduce food waste
 
-** Possible integration with smart assistants like Alexa or Google Assistant
+* Possible integration with smart assistants like Alexa or Google Assistant
 
 ## Deployment
 
