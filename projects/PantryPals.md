@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/corponector.png
+image: img/pantrypals-logo.png
 title: "Pantry Pals"
 date: 2025
 published: true
